@@ -3,6 +3,10 @@
   "displayName": "🌹 Rose Theme",
   "description": "A dark floral theme with shades of rose gold and fresh green.",
   "publisher": "jamenamcinteer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamenamcinteer/rose-vscode-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.49.0"
