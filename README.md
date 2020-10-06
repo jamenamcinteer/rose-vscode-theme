@@ -4,7 +4,7 @@ A dark floral theme with shades of rose gold and fresh green.
 
 For example if there is an image subfolder under your extension project workspace:
 
-\!\[feature X\]\(images/feature-x.png\)
+\!\[React\]\(react.png\)
 
 ## Installation
 
